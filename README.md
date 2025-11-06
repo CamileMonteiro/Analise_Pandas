@@ -28,5 +28,5 @@ O principal objetivo foi **desenvolver o raciocínio analítico** e a **profici�
 
 ## 📂 Conteúdo do Repositório
 
-* `vendas.ipynb`: O Notebook principal contendo todo o código de importação, limpeza, análise exploratória e as respostas às perguntas.
-* `dataset.xlsx`: O arquivo de dados em formato Excel (xlsx) utilizado para a análise.
+- [vendas.ipynb](./vendas.ipynb) O Notebook principal contendo todo o código de importação, limpeza, análise exploratória e as respostas às perguntas.
+- [dataset.xlsx](./dataset.xlsx) O arquivo de dados em formato Excel (xlsx) utilizado para a análise.

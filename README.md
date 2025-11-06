@@ -28,11 +28,5 @@ O principal objetivo foi **desenvolver o raciocínio analítico** e a **profici�
 
 ## 📂 Conteúdo do Repositório
 
-* `analise_pandas.ipynb`: O Notebook principal contendo todo o código de importação, limpeza, análise exploratória e as respostas às perguntas.
-* `[dataset.xlsx]`: O arquivo Excel utilizado na análise.
-
-## ✍️ Como Rodar o Projeto
-
-1.  Clone este repositório.
-2.  Certifique-se de ter Python e as bibliotecas Pandas (e outras) instaladas.
-3.  Abra o arquivo `analise_pandas.ipynb` em um ambiente Jupyter (JupyterLab, VS Code, Google Colab).
+* `vendas.ipynb`: O Notebook principal contendo todo o código de importação, limpeza, análise exploratória e as respostas às perguntas.
+* `dataset.xlsx`: O arquivo de dados em formato Excel (xlsx) utilizado para a análise.

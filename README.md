@@ -1,7 +1,7 @@
 # 📈 Análise Exploratória de Dados com Pandas
 ## 📝 Descrição do Projeto
 
-Este projeto consiste em uma Análise Exploratória de Dados (EDA) realizada sobre um conjunto de dados de vendas globais.
+Este projeto consiste em uma Análise Exploratória de Dados realizada sobre um conjunto de dados de vendas globais.
 O principal objetivo foi **desenvolver o raciocínio analítico** e a **proficiência na biblioteca Pandas** (Python) para entender a estrutura dos dados, identificar padrões e extrair métricas de negócio relevantes.
 
 ## 📊 Principais Descobertas e Respostas Analíticas
@@ -15,6 +15,8 @@ O principal objetivo foi **desenvolver o raciocínio analítico** e a **profici�
   * **Valor Médio:**
   * Média de **Total_Vendas**: $246.49$
   * Média de **Lucro**: $28.61$
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d65991a2-86b9-45cd-8182-5e3a3e1a2c70"/>
     
 > *Nota Analítica:* A média positiva de Lucro ($28.61$) indica que, no geral, a empresa está sendo lucrativa. No entanto, o **valor mínimo de Lucro é extremamente negativo** ($-6599.98$), o que sinaliza a existência de transações com perdas muito altas. A próxima etapa seria investigar a fundo os fatores (como 'Desconto' ou 'Região') que levam a essas perdas.
 
